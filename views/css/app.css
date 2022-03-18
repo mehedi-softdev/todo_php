@@ -1,0 +1,21 @@
+textarea {
+	width: 400px;
+	height: 200px;
+	resize: none;
+}
+
+table {
+	width: 100%;
+}
+table, th, td {
+	border: 1px solid darkred;
+}
+th {
+	text-align: center;
+	padding: .2em;
+	color:  #057d49;
+}
+td {
+	text-align: left;
+	padding: .2em;
+}
